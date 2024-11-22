@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d bootstrap"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/tkharn/babyvictory.git",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
